@@ -209,6 +209,10 @@ public class Post {
         return repostsInfo;
     }
 
+    public void setRepostsInfo(RepostsInfo repostsInfo) {
+        this.repostsInfo = repostsInfo;
+    }
+
     public CommentsInfo getCommentsInfo() {
         return commentsInfo;
     }
