@@ -1,6 +1,6 @@
 package domain;
 
-import javax.swing.text.View;
+
 import java.util.Date;
 
 public class Post {
